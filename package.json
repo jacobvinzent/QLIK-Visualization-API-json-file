@@ -1,0 +1,28 @@
+{
+  "name": "qliksense_viz_api_json",
+  "version": "1.0.0",
+  "description": "Generate Qlik Sense Viz API json file from the output from Serialize App Mashup tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Vinzent",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^3.0.0",
+    "file-system": "^2.2.1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/jacobvinzent/QLIK-Visualization-API-json-file.git"
+  },
+  "keywords": [
+    "qlik",
+    "qlik sense",
+    "Sense",
+    "api"
+
+  ],
+  
+}
+
