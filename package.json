@@ -16,6 +16,9 @@
     "type": "git",
     "url": "git://github.com/jacobvinzent/QLIK-Visualization-API-json-file.git"
   },
+  directories: {
+SenseMashup: "./SenseMashup"
+},
   "keywords": [
     "qlik",
     "qlik sense",
