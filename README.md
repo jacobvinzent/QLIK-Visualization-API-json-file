@@ -33,7 +33,7 @@ If you want to test the new created json file, unzip the zip file in the SenseMa
 
 The mashup will show you a menu item for each tag used on the master items and an “All” menu item with all objects.
 
-Copy the content of your new create json file into vizapi.json or create a new json file and change the name in helpdesk-angular.js line 61.
+Copy the content of your new create json file into vizapi.json or create a new json file and change the name in helpdesk-angular.js line 61. (You might need to clear the browser cache, before you can see your changes)
 
 Change the app name in line 30 in helpdesk-angular.js to the app containing your data model
 
