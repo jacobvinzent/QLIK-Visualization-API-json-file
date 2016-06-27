@@ -17,7 +17,7 @@ When you want to add a new visualization you need to unpublish (make a duplicate
 This tool will help you to design your app in the standard Qlik Sense interface, all the visualization you want to share to all your instances created from this template should be saved as Master Visualizations.
 
 When that is done you need to download (only needed once) the Serialize App Mashup from http://branch.qlik.com/#!/project/56728f52d1e497241ae698b1
-
+ 
 Use the tool to serialize you app into a json file.
 
 When that is done, install node.js from https://nodejs.org/en/download/
