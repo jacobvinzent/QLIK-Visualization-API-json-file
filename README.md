@@ -1,6 +1,6 @@
 # QLIK-Visualization-API-json-file
  
- ![alt tag](https://raw.githubusercontent.com/jacobvinzent/QLIK-Visualization-API-json-file/master/Image.png)
+ ![alt tag](https://raw.githubusercontent.com/jacobvinzent/QLIK-Visualization-API-json-file/master/Image1.png)
 
 # What does this do: 
 This tool helps you to reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers.
