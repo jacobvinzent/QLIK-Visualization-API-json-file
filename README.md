@@ -5,7 +5,7 @@
 # What does this do: 
 This tool helps you to reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers.
 
-The tool is valuable if you:
+The tool is valuable if you:  
 1. Have the same app design for multiple applications, either for different customers or different departments in your organization  
 2. The content is presented in a mashup  
 
@@ -21,7 +21,7 @@ When that is done you need to download (only needed once) the Serialize App Mash
 Use the tool to serialize you app into a json file.
 
 When that is done, install node.js from https://nodejs.org/en/download/
-Create a new directory on the machine where your node.js is installed
+Create a new directory on the machine where your node.js is installed  
 1. Run the command npm install qliksense_viz_api_json  
 2. Type cd node_modules  
 3. Type cd qliksense_viz_api_json  
