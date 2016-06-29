@@ -5,7 +5,7 @@
 # What does this do: 
 This tool helps you to reuse your application design done in the Qlik Sense Desktop or on the Qlik Enterprise server across multiple applications for different customers.
 
-The tool is valuable if you:<br />
+The tool is valuable if you:
 1. Have the same app design for multiple applications, either for different customers or different departments in your organization<br />
 2. The content is presented in a mashup<br />
 
